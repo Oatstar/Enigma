@@ -11,3 +11,6 @@
         *      | 5->25   | 11      | 11      | 11      | F        
         *      | ...     | ...     | ...     | ...     | ...        
         */
+
+
+![Preview](https://raw.githubusercontent.com/Oatstar/Enigma/main/Preview.jpg)
