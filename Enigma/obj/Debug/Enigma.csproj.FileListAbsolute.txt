@@ -1,0 +1,11 @@
+N:\Tyokansiot\Sekalainen\Koodihommat\Enigma\Enigma\bin\Debug\Enigma.exe.config
+N:\Tyokansiot\Sekalainen\Koodihommat\Enigma\Enigma\bin\Debug\Enigma.exe
+N:\Tyokansiot\Sekalainen\Koodihommat\Enigma\Enigma\bin\Debug\Enigma.pdb
+N:\Tyokansiot\Sekalainen\Koodihommat\Enigma\Enigma\obj\Debug\Enigma.csproj.AssemblyReference.cache
+N:\Tyokansiot\Sekalainen\Koodihommat\Enigma\Enigma\obj\Debug\Enigma.csproj.SuggestedBindingRedirects.cache
+N:\Tyokansiot\Sekalainen\Koodihommat\Enigma\Enigma\obj\Debug\Enigma.Form1.resources
+N:\Tyokansiot\Sekalainen\Koodihommat\Enigma\Enigma\obj\Debug\Enigma.Properties.Resources.resources
+N:\Tyokansiot\Sekalainen\Koodihommat\Enigma\Enigma\obj\Debug\Enigma.csproj.GenerateResource.cache
+N:\Tyokansiot\Sekalainen\Koodihommat\Enigma\Enigma\obj\Debug\Enigma.csproj.CoreCompileInputs.cache
+N:\Tyokansiot\Sekalainen\Koodihommat\Enigma\Enigma\obj\Debug\Enigma.exe
+N:\Tyokansiot\Sekalainen\Koodihommat\Enigma\Enigma\obj\Debug\Enigma.pdb
